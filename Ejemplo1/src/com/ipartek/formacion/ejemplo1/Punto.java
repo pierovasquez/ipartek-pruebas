@@ -4,7 +4,7 @@ public class Punto {
 	
 	private int x, y;
 
-	//Prueba
+	//Prueba dos asdasjdasdasd
 	//Source --> Generate constructor using Fields.
 	public Punto(int x, int y) {
 		super();
