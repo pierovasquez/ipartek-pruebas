@@ -3,7 +3,7 @@ package com.ipartek.formacion.ejemplo1;
 public class Punto {
 	
 	private int x, y;
-
+	//prueba 
 	//Prueba dos asdasjdasdasd
 	//Source --> Generate constructor using Fields.
 	public Punto(int x, int y) {
